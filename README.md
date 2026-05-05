@@ -1,34 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-
-Previous
-buymeacoffee
-Buy Me a Coffee:
-yourname
-kofi
-Ko-fi:
-yourname
-
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is overlun1337
 ====================================================================================================================================
 
@@ -70,6 +39,8 @@ UI/UX Aesthetic: Neon Purple, Acid Green, Ultra-Dark Minimalism 🟣🟢
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/overlun1337/RELEASE-NEVERPASTE-FOR-CS-GO-NEW-CRACK-by-overlun" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=overlun1337&repo=RELEASE-NEVERPASTE-FOR-CS-GO-NEW-CRACK-by-overlun&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/overlun1337/RELEASE-NEVERPASTE-FOR-CS-GO-NEW-CRACK-by-overlun" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=overlun1337&repo=RELEASE-NEVERPASTE-FOR-CS-GO-NEW-CRACK-by-overlun&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/overlun1337/1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=overlun1337&repo=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/overlun1337/1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=overlun1337&repo=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/overlun1337/1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=overlun1337&repo=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><img width="543" height="290" alt="Знімок екрана 2026-05-02 193233" src="https://github.com/user-attachments/assets/33ddb34b-fc01-4897-b0c9-cf571f755c5d" />
